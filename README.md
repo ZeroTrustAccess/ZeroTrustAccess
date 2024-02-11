@@ -43,6 +43,8 @@ Life and technology have sparked my passion for cybersecurity, and I am ready to
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Qualys%20Vulnerability%20Management-000000?&style=for-the-badge&logo=Qualys&logoColor=white" />
+
 </div>
 
 ## Projects

@@ -46,5 +46,5 @@ Life and technology have sparked my passion for cybersecurity, and I am ready to
 </div>
 
 ## Projects
-- Detection Lab
+- Honeypot Lab
 - SOC Automation Project

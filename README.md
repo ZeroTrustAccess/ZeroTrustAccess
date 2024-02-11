@@ -6,7 +6,7 @@ I am a life-long learner with a profound interest in technology and a dedication
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Life and technology have sparked my passion for cybersecurity, and I am ready to switch to this field now. My goal is to work as a Tier 1 Analyst in a Security Operations Center (SOC).
 
 ## Skills
 

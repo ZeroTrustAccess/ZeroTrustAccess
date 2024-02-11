@@ -46,5 +46,5 @@ Life and technology have sparked my passion for cybersecurity, and I am ready to
 </div>
 
 ## Projects
-- Honeypot Lab
+- <a href="https://github.com/ZeroTrustAccess/Honeypot/blob/main/README.md">Honeypot Lab</a>
 - SOC Automation Project

@@ -1,5 +1,15 @@
 
-# Hello, I'm Mat.
+<a href="https://git.io/typing-svg"><img
+src="https://readme-typing-svg.demolab.com?
+font=Fira+Code&duration=4000&pause=500&color =0F919&background=000000&vCenter=true&mul-tiline=true&width=900&height=100&lines=%3Е+H
+i%2C+I 'm+Mat!
++An+aspiring+Cybersecurity+Professional;
+%3E+I+have+a+strong+motivation+and+enthusiasm +for+using+technology;
+%3E+To+apply+my+problem-solving+skills+to+ta ckle+challenging+issues."
+alt="Typing SVG" /></a>
+
+
+
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a life-long learner with a profound interest in technology and a dedication to solving complex problems.

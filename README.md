@@ -13,11 +13,6 @@ Life and technology have sparked my passion for cybersecurity, and I am ready to
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/ZeroTrustAccess/Honeypot/blob/main/README.md">Honeypot Lab</a>|
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
@@ -51,4 +46,3 @@ Life and technology have sparked my passion for cybersecurity, and I am ready to
 
 ## Projects
 - <a href="https://github.com/ZeroTrustAccess/Honeypot/blob/main/README.md">Honeypot Lab</a>
-- SOC Automation Project

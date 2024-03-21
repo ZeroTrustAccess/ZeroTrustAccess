@@ -15,7 +15,7 @@ Life and technology have sparked my passion for software, and I am ready to swit
 ## Tools
 ### Programming
 <div>
-    [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
+ C++   HTML   CSS   Python   JavaScript
 </div>
 ### Network
 <div>

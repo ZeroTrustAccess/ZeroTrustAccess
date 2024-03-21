@@ -13,7 +13,10 @@ Life and technology have sparked my passion for software, and I am ready to swit
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/ZeroTrustAccess/Honeypot/blob/main/README.md">Honeypot Lab</a>|
 
 ## Tools
-
+### Programming
+<div>
+    [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
+</div>
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />

@@ -6,7 +6,7 @@ I am a life-long learner with a profound interest in technology and a dedication
 
 ## Objective
 
-Life and technology have sparked my passion for cybersecurity, and I am ready to switch to this field now. My goal is to work as a Tier 1 Analyst in a Security Operations Center (SOC).
+Life and technology have sparked my passion for software, and I am ready to switch to this field now. My goal is to work as a Software Engineer for Mojang/Microsoft.
 
 ## Skills
 
